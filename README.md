@@ -5,14 +5,14 @@
 
 Analysis of Amazon product data investigating the impact of discounts on ratings and rating counts across 1,398 products and 9 categories.
 
----
+
 
 ## Tools Used
 
 * **Microsoft Excel** (Power Query for data cleaning, visual dashboard)
 * **Power BI** (Interactive dashboard — see video)
 
----
+
 
 ## Key Findings
 
@@ -22,7 +22,7 @@ Analysis of Amazon product data investigating the impact of discounts on ratings
 * **Top Product:** AmazonBasics Flexible Premium HDMI Cable led in rating count (**853,945 reviews**).
 * **Core Insight:** Minimal correlation between discount percentage and ratings (e.g., Toys & Games with a 0% discount matched Home Improvement's 57.9% discount with a **4.3** rating).
 
----
+
 
 ## Files
 
