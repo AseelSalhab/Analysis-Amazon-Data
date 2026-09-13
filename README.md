@@ -1,13 +1,38 @@
-The report analyzes Amazon platform data based on several key points:
+**Amazon Product Data Analysis**
 
-Data Volume: The dataset was refined from 1,465 to 1,398 products following data cleaning, spanning 9 main categories and their subcategories.
+**Overview**
 
-Objective: To measure the impact of the discount rate on both the rating and the rating count, at the levels of both the main category and the individual product.
+Analysis of Amazon product data investigating the impact of discounts on ratings and rating counts across 1,398 products and 9 categories.
 
-Key Findings:
+**Tools Used**
 
-- Overall average discount: 47.27%
+* Microsoft Excel (Power Query for data cleaning, dashboard)
 
-- Overall average rating: 4.1
 
-Note: The reported discount rate does not apply equally across all categories, as some categories contain no discounts.
+* Power BI (Interactive dashboard — see video)
+
+**Key Findings**
+
+* Dataset cleaned from 1,465 to 1,398 products across 9 main categories
+
+
+* Average discount rate: 47.27% | Average product rating: 4.1
+
+
+* Top subcategory by rating: Office Electronics (4.5 rating)
+
+
+* Top product by rating count: AmazonBasics Flexible Premium HDMI Cable (853,945 reviews)
+
+
+* Minimal correlation between discount percentage and ratings (e.g., Toys & Games with 0% discount matched Home Improvement's 57.9% discount with a 4.3 rating)
+
+
+
+**Files**
+
+* Excel file: Cleaned dataset, full analysis, and dashboard image
+
+
+* Power BI: Interactive dashboard demo video
+* Report: Written PDF analysis with strategic business recommendations
