@@ -8,6 +8,6 @@ Key Findings:
 
 - Overall average discount: 47.27%
 
-= Overall average rating: 4.1
+- Overall average rating: 4.1
 
 Note: The reported discount rate does not apply equally across all categories, as some categories contain no discounts.
