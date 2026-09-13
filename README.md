@@ -1,10 +1,13 @@
-Here is the summary of the report in English:
+The report analyzes Amazon platform data based on several key points:
 
-* **Dataset Overview:** The original file of 1,465 products was cleaned to **1,398 products** across **9 main categories** and their subcategories.
-* **Objective:** Analyze two key relationships—**Discount vs. Rating** and **Discount vs. Rating Count**—at both the main category and individual product levels for Amazon products.
-* **Key Findings:**
-* **Average Discount:** 47.27%
-* **Average Rating:** 4.1 out of 5
+Data Volume: The dataset was refined from 1,465 to 1,398 products following data cleaning, spanning 9 main categories and their subcategories.
 
+Objective: To measure the impact of the discount rate on both the rating and the rating count, at the levels of both the main category and the individual product.
 
-* **Note:** Some Amazon categories offer no discount, so the average discount figure does not apply uniformly across all categories.
+Key Findings:
+
+- Overall average discount: 47.27%
+
+= Overall average rating: 4.1
+
+Note: The reported discount rate does not apply equally across all categories, as some categories contain no discounts.
