@@ -1,6 +1,5 @@
 # Amazon Product Data Analysis
 
----
 
 ## Overview
 
